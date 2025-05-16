@@ -9,3 +9,4 @@ A lightweight and interactive To-Do List application built using HTML, CSS, and 
 🛠 Technologies Used HTML – For structuring the app CSS – For styling and layout JavaScript – For dynamic interactions
 
 🎯 Usage Type a task in the input field and press Add. Click the delete button to remove a task.
+
